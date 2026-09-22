@@ -1,4 +1,4 @@
-const cacheName = "bnf-access-pwa-v8";
+const cacheName = "bnf-access-pwa-v9";
 const appShellUrls = [
   "./",
   "./index.html",
